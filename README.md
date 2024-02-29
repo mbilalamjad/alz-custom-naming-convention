@@ -4,3 +4,5 @@ This repo serves as an example of how to use the [ALZ Terraform module](https://
 - To see how to rename management groups, see the `custom_landing_zones` block code in the main.tf file
 
 - To see how to rename resource groups and resource, see the `advanced` block code in the settings.connectivity.tf and the settings.management.tf files.
+
+   
